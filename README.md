@@ -1,4 +1,4 @@
-<h1 align="left">Olá ✌😄, me chamo Airton Adans</h1>
+<h1 align="left">Olá, me chamo Airton Adans</h1>
 <h3 align="left">Desenvolvedor Web/Mobile e Analista de Sistemas para Internet, focado na área de solução de problemas, Relacionamento com o cliente e Experiência do Usuário.</h3>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
