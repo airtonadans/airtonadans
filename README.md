@@ -3,8 +3,8 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/airton.adans.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airton.adans.r" height="30" width="40" /></a>
-<a href="https://fb.com//airtontrader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/airtontrader" height="30" width="40" /></a>
-<a href="https://instagram.com/max.adans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max.adans" height="30" width="40" /></a>
+<a href="https://fb.com/airtontrader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/airtontrader" height="30" width="40" /></a>
+<a href="https://instagram.com/max.adans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max.adans" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airtonadans&label=Profile%20views&color=0e75b6&style=flat" alt="airtonadans" /> </p>
 
