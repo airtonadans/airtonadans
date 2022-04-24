@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Airton Adans</h1>
+<h1 align="center">Olá ✌😄, me chamo Airton Adans</h1>
 <h3 align="center">Desenvolvedor Web/Mobile e Analista de Sistemas para Internet, focado na área de solução de problemas, Relacionamento com o cliente e Experiência do Usuário.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airtonadans&label=Profile%20views&color=0e75b6&style=flat" alt="airtonadans" /> </p>
