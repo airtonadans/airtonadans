@@ -7,7 +7,7 @@ Desde 2020, desenvolvi multiplos projetos de apps semelhantes aos mais famosos, 
 **Meu perfil profissional é sempre focado no Sucesso do Cliente e Experiência do Usuário, usando métricas de dados para atingir as maiores taxas de retenção, devido a minha ampla experiência com relacionamento de clientes B2B, B2G e B2C.**
 
 <p align="left"><h4 align="left">Alguns dos meus Projetos:</h4></p>
-<p align="left">🔭 Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)</p>
+<p align="left">🔭 App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)</p>
 Projeto de aplicativo educacional para ensino à distância, com interface do usuário, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide.
 **Utilizando de Progressive Web App(PWA) e formulários.**
  
