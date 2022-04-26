@@ -15,8 +15,8 @@
 Aplicativo com interface de usuário, login através de e-mail após confirmação de envio de código de verificação. Possui seletor de imagens do dispositivo e armazenamento em nuvem. O App calcula a soma de todas as despesas informadas e separadas por categoria. Desenvolvimento Web 2.0 com classes Glide.
 **PWA e tabelas da planilha Google Sheets.**
 
-- 🔭 App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)
-Projeto de aplicativo educacional para ensino à distância, com interface do usuário, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide.
+- 🔭 Web/App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)
+Projeto de aplicativo educacional para ensino à distância, com interface do usuário, visualização em página web em diversos navegadores, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide.
 **Utilizando de Progressive Web App(PWA) e formulários.**
 
 💬 Me pergunte sobre **Firebase, Flutter, Glide, Rest API, GitFlow**
