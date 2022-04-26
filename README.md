@@ -12,11 +12,11 @@
 **Meu perfil profissional é sempre focado no Sucesso do Cliente e Experiência do Usuário, usando métricas de dados para atingir as maiores taxas de retenção, devido a minha ampla experiência com relacionamento de clientes B2B, B2G e B2C.**
 
 <p align="left"><h4 align="left">Alguns dos meus Projetos:</h4></p>
-- **🔭 App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)**
+- 🔭 App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)
 Projeto de aplicativo educacional para ensino à distância, com interface do usuário, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide.
 **Utilizando de Progressive Web App(PWA) e formulários.**
 
-- **🔭 App de Despesas  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://successful-sound-8873.glideapp.io/)**
+- 🔭 App de Despesas  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://successful-sound-8873.glideapp.io/)
 Aplicativo com interface de usuário, login através de e-mail após confirmação de envio de código de verificação. Possui seletor de imagens do dispositivo e armazenamento em nuvem. O App calcula a soma de todas as despesas informadas e separadas por categoria. Desenvolvimento Web 2.0 com classes Glide.
 **PWA e tabelas da planilha Google Sheets.**</p>
 
