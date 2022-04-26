@@ -1,5 +1,5 @@
 <h1 align="left">Olá, me chamo Airton Adans</h1>
-<h3 align="left">Desenvolvedor Web/Mobile e Analista de Sistemas para Internet, focado na área de solução de problemas, Relacionamento com o cliente e Experiência do Usuário.</h3>
+<h3 align="left">Desenvolvedor Web/Mobile e Analista de Sistemas para Internet, focado em resolução de problemas, Relacionamento com o cliente e Experiência do Usuário.</h3>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/airton.adans.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airton.adans.r" height="30" width="40" /></a>
