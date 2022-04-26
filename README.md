@@ -16,7 +16,7 @@
 Projeto de aplicativo educacional para ensino à distância, com interface do usuário, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide.
 **Utilizando de Progressive Web App(PWA) e formulários.**
 
-**🔭 App de Despesas  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://successful-sound-8873.glideapp.io/)**
+- **🔭 App de Despesas  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://successful-sound-8873.glideapp.io/)**
 Aplicativo com interface de usuário, login através de e-mail após confirmação de envio de código de verificação. Possui seletor de imagens do dispositivo e armazenamento em nuvem. O App calcula a soma de todas as despesas informadas e separadas por categoria. Desenvolvimento Web 2.0 com classes Glide.
 **PWA e tabelas da planilha Google Sheets.**</p>
 
