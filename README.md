@@ -11,11 +11,6 @@
 👨‍💻 Desde 2020, desenvolvi multiplos projetos de apps semelhantes aos mais famosos, mobilidade urbana, Apps de delivery, App de Música e Vídeos, uso de câmeras, agendas e outros. Tenho 13 anos de experiência em desenvolvimento de sites responsivos e de e-commerce, com o uso de bancos de dados **SQL** e as linguagens mais comumentes utilizadas **CSS/HTML/HTML5/PHP/JavaScript**. Tive contato incial com linguagens de programação aos 13 anos, partindo do Basic, depois Visual Basic e depois **C** e **C++**, porém, na época o interesse era de cunho pessoal/recreativo, na criação de games e depois de alguns anos, robôs de investimento. Devido ao crescimento exponencial de aplicativos mobile, retornei meu interesse em programação em 2020, dessa vez focado no meu profissional, assim venho me aperfeiçoando nas principais linguagens de programação **JavaScript, Python, SASS** utilizando as plataformas e frameworks mais utilizadas na atualidade como **Bootstrap, Angular JS, Docker, NodeJs, ReactJs, interface de programação API REST**, entretanto não me limito a adquirir o conhecimento que for necessário para meu crescimento como desenvolvedor.
 **Meu perfil profissional é sempre focado no Sucesso do Cliente e Experiência do Usuário, usando métricas de dados para atingir as maiores taxas de retenção, devido a minha ampla experiência com relacionamento de clientes B2B, B2G e B2C.**
 
-<p align="left"><h4 align="left">Alguns dos meus Projetos:</h4></p>
-- 🔭 App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)
-Projeto de aplicativo educacional para ensino à distância, com interface do usuário, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide.
-**Utilizando de Progressive Web App(PWA) e formulários.**
-
 - 🔭 App de Despesas  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://successful-sound-8873.glideapp.io/)
 Aplicativo com interface de usuário, login através de e-mail após confirmação de envio de código de verificação. Possui seletor de imagens do dispositivo e armazenamento em nuvem. O App calcula a soma de todas as despesas informadas e separadas por categoria. Desenvolvimento Web 2.0 com classes Glide.
 **PWA e tabelas da planilha Google Sheets.**</p>
