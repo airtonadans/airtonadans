@@ -2,7 +2,7 @@
 <h3 align="left">Sou um analista de Sistemas para Internet com expertise comercial, focado em fechamento de negócios e entrega de soluções tecnológicas web desenvolvidas através de IA.</h3>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/airton-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airton.adans.r" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/airtonadans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airton.adans.r" height="30" width="40" /></a>
 <a href="https://fb.com/airtontrader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/airtontrader" height="30" width="40" /></a>
 <a href="https://instagram.com/addannss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addannss" height="30" width="40" /></a>
 </p>
