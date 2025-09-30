@@ -1,5 +1,5 @@
 <h1 align="left">Olá, me chamo Airton Adans</h1>
-<h3 align="left">Sou um analista de Sistemas para Internet com expertise comercial, focado em fechamento de negócios e entrega de soluções tecnológicas web desenvolvidas através de IA.</h3>
+<h3 align="left">Sou um analista de Sistemas para Internet com expertise comercial, focado em fechamento de negócios e entrega de soluções tecnológicas web.</h3>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/airtonadans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airton.adans.r" height="30" width="40" /></a>
@@ -12,11 +12,10 @@
 
 Não me limito a adquirir o conhecimento que for necessário para meu crescimento.
 
-- 🔭 **App de Despesas  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://successful-sound-8873.glideapp.io/)**
-Aplicativo com interface de usuário, login através de e-mail após confirmação de envio de código de verificação. Possui seletor de imagens do dispositivo e armazenamento em nuvem. O App calcula a soma de todas as despesas informadas e separadas por categoria. Desenvolvimento Web 2.0 com classes Glide. PWA e tabelas da planilha Google Sheets.
+No repositório existem alguns projetos públicos. Mas meu principal desenvolvimento esta aendo desenvolvido de forma privada no servidor do Hugging Face Space. Uma plataforma mobile de trading em python com gráficos, operações automatizadas, backtests quantitativos e Machine Learning. 
 
 - 🔭 **Web/App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)**
-Projeto de aplicativo educacional para ensino à distância, com interface do usuário, visualização em página web em diversos navegadores, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide. Utilizando de Progressive Web App(PWA) e formulários.
+Aqui meu primeiro projeto. Um aplicativo educacional para ensino à distância, com interface do usuário, visualização em página web em diversos navegadores, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide. Utilizando de Progressive Web App(PWA) e formulários.
 
 ⚡ Uma curiosidade a meu respeito: **Sou apaixonado pelo mercado financeirobe um dia encontrarei o setup Santo Graal.**
 
