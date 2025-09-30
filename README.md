@@ -12,7 +12,7 @@
 
 Não me limito a adquirir o conhecimento que for necessário para meu crescimento.
 
-No repositório existem alguns projetos públicos. Mas meu principal desenvolvimento esta aendo desenvolvido de forma privada no servidor do Hugging Face Space. Uma plataforma mobile de trading em python com gráficos, operações automatizadas, backtests quantitativos e Machine Learning. 
+No repositório existem alguns projetos públicos. Mas meu principal desenvolvimento está sendo desenvolvido de forma privada no servidor do Hugging Face Space. É uma plataforma mobile de trading em python com gráficos, operações automatizadas, backtests quantitativos e Machine Learning. 
 
 - 🔭 **Web/App Licitações em 6 passos  [| JAVA, JavaScript, AngularJS, HTML, CSS |]  (https://exultant-brick-2229.glide.page/)**
 Aqui meu primeiro projeto. Um aplicativo educacional para ensino à distância, com interface do usuário, visualização em página web em diversos navegadores, criado através da plataforma de desenvolvimento Web 2.0 com classes Glide. Utilizando de Progressive Web App(PWA) e formulários.
